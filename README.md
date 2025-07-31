@@ -1,0 +1,2 @@
+# binarizacao
+projeto dio - binzariação
