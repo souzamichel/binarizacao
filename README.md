@@ -1,2 +1,2 @@
 # binarizacao
-projeto dio - binzariação
+projeto dio - binarização
