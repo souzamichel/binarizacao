@@ -1,2 +1,2 @@
-# binarizacao
+# binarização
 projeto dio - binarização
